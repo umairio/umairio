@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Umair, a backend developer with expertise in Python, Django, and Pandas.
+I'm Umair, a backend developer with expertise in Python, and Django.
 
 ## About Me
 
