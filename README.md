@@ -35,7 +35,3 @@ I'm Umair, a passionate backend developer with a knack for Python and Django. I'
 I'm always interested in collaborating on exciting projects and exploring new ideas. If you have any opportunities or suggestions, I'd love to hear from you. Let's build something amazing together!
 
 Happy coding! 🚀
-
-cat id_rsa.pub
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDkqQWV6ZC4lZOn+fhhmsqVYT5vBEssEF9yHwv0DSPVVZxZJjOQcg7cmhX2fDnO/B57cj6iGkWP6KvtJMni2eKXtZwiqVaj4QJdCDYtrWucd84RAL5AluWNCgWoF34/K1p1RZ3XNhIXN49CLhCVRsivFt/OZqhlppoCP6AuGPgiOHvbNuW3Zm4UPl3V22BvLyxZRSmlB+AJ3E9o+csUmU8rFjQNnCFBCMwrcE0JwkqlqF+0xm+n9wutp3KJVnIzBaxAFPNryKC8IweuKvT+LzLi7cYuyBr6dI7+e2BgtPRrDWWTaXb7umHBa5CrQ2kr9+3OQ5HzG4Ch00TwzbJ82GwCjsgdP29EaV5Gt+IYwPsDwP5JevEC3NkuHz1mLdQzhaD145gy+jGIjfoeR0BlrY82qAbFhbH70lw7y9IzFG4qXf8fzdjXqchcrR76Pe3Y8hQ2e9OgEP38lnlqmsrHd1olLCHcCMIeDMmj4kmz2OeCEBwybDuPIOGQgFCEi1OQBW8= umair@DESKTOP-FGK6R0N
-
