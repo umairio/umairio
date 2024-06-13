@@ -35,5 +35,3 @@ I'm Umair, a passionate backend developer with a knack for Python and Django. I'
 I'm always interested in collaborating on exciting projects and exploring new ideas. If you have any opportunities or suggestions, I'd love to hear from you. Let's build something amazing together!
 
 Happy coding! 🚀
-
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC2paaS3JsOesBjxOYiSLbOgZEn14tqX82zP6oKvGUOgvt0wS2OZ0F5pjxOnGg0o/n7qRKSDnJCfVJY7ou9KUb59YM1NRg9LqFoN2iD8L46KoYTmYi9BFb0dQESmO9VfzNfZ3Ssajf6mKEEXCL4SmxOin+qdnlHHoxLEvvBwD0T+bfSu2UZ0N/vtjHpgCHQymBbxLJZw8Pl0Reoa8CcuP1TXusZt6EJ1RQ1iEkrXtJUUuN0gp/dTNMm4LLTwB91ONP6ZEFFXqSIW5p0VFor9jQOjXEdXfS5nRX4Y7IwtkILEvZhwGzKGKtNBVMeQlEHDt6EiNpUxWcoinU3HJzz9ECTbw0T3TPBCDSQbHtLGZmadMRDO1Tu1dO8pYLkKu0f5XV8E6jamEW8z8RydD5XPC3axrluJhhSLm+EoXFu6sK+h1KEgT5BJLS1g+djzENll7rpm49XvY5JPhO2QEIi4/H/xZSgVyNnnrjBK0cGHBe65nKO4y2QlMAvHdP1NH0GcH0= rio@rio-Latitude-7490
